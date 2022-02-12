@@ -1,2 +1,2 @@
-nsi student 
+computer science student 
 
